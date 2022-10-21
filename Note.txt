@@ -1,1 +1,1 @@
-[{"id":"01","title":"First note","body":"run this code"},{"id":"02","title":"Second note","body":"need to do this code"},{"id":"03","title":"last note","body":"add code"}]
+[{"id":"01","title":"coding","body":"testing"},{"id":"02","title":"update","body":"try another"},{"id":"03","title":"code notes app","body":"finish update"}]
