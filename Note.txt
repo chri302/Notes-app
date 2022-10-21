@@ -1,1 +1,1 @@
-default
+[{"id":"01","title":"First note","body":"run this code"},{"id":"02","title":"Second note","body":"need to do this code"},{"id":"03","title":"last note","body":"add code"}]

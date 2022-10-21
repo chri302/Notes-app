@@ -1,8 +1,11 @@
-const fs = require('fs');
+const fs = require('fs')
 
 const read = function () {
-    return fs.readFileSync('Note.txt', {encoding: 'utf8', flag : 'r'})
-
- 
-  }
-module.exports = read;
+   if(fs.existsSync('./Note.txt')) {
+        return fs.readFileSync('Note.txt', 'utf8');
+    }
+    else {
+        return '[]'
+    }
+}
+module.exports = read
